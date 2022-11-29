@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.433fa7f7.js",
+    "static/media/spillin-beans.png": "/static/media/spillin-beans.00d1920df815f7f85a0c.png",
+    "static/media/weekend-planner.png": "/static/media/weekend-planner.08134a9ef143e588f629.png",
+    "static/media/multiple-choice.png": "/static/media/multiple-choice.8c2dde0baa47adb7fb87.png",
+    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.c1bbc3710cfd6af87c4c.png",
+    "static/media/daily-planner.png": "/static/media/daily-planner.20a2d468916c0fc318d1.png",
+    "static/media/password-generator.png": "/static/media/password-generator.2e5662a82857621f77b3.png",
+    "static/media/profile-picture.jpg": "/static/media/profile-picture.4d5abf80dacdaec52e92.jpg",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.433fa7f7.js.map": "/static/js/main.433fa7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.433fa7f7.js"
+  ]
+}
